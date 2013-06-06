@@ -16,5 +16,6 @@
 # -Run as root
 # Requires:
 # -scapy-python
+<img src="https://raw.github.com/cldrn/mac2wepkey-scanner/master/mac2wepkeyscanner.png" />
 
 If you come across a Huawei device not recognized, please send me its mac address.
