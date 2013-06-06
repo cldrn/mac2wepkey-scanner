@@ -9,4 +9,5 @@ Python script to scan for huawei wireless access points and generate their defau
 #Credits
 <a href="http://websec.ca/blog/view/mac2wepkey_huawei">Humberto Ochoa's research</a>
 #Contribute
-If you come across a Huawei device not recognized, please send me its mac address.
+If you come across a Huawei device not recognized, please <a href="http://calderonpale.com/contact">send me its mac address.
+</a>
